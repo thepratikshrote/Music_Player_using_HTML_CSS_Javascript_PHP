@@ -24,9 +24,13 @@ This project leverages a combination of front-end and back-end technologies to d
 1. HTML: Used for structuring the web pages and content.
 
 2. CSS: Provides styling and enhances the user interface.
+
 3. JavaScript: Adds interactivity and dynamic features to the player.
+
 4. PHP: Handles server-side functionalities such as user authentication and playlist management.
+
 5. MySQL: Used for database storage to store user accounts, playlists, and music metadata.
+
 ## Acknowledgements
 
 We hope you enjoy using the Music Player, and we welcome your feedback and contributions to make it even better! Feel free to reach out to us with any questions or suggestions.
